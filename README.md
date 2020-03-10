@@ -1,0 +1,1 @@
+change static for webpack plugin

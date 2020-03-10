@@ -1,0 +1,19 @@
+{
+  "name": "change-static-webpack-plugin",
+  "version": "1.0.0",
+  "description": "change static for webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelou/change-static-webpack-plugin.git"
+  },
+  "author": "codelou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelou/change-static-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/codelou/change-static-webpack-plugin#readme"
+}
